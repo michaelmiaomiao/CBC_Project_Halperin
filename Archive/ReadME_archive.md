@@ -1,0 +1,2 @@
+- This folder contains files that have been archived but may be helpful as the reference to check and inspect.
+- The CBC_project.ipynb is the synthesized script that covers all my lab scripts from 1 to 23. 
