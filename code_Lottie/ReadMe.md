@@ -1,14 +1,14 @@
-MODEL WITHOUT ICD CODE
+**MODEL WITHOUT ICD CODE**
 
-categorical data cleaning
+- categorical data cleaning
 
-model without ICD
+- model without ICD
 
 
-MODEL WITH ICD CODE
+**MODEL WITH ICD CODE**
 
-generate ICD data
+- generate ICD data
 
-rearrange ICD data
+- rearrange ICD data
 
-model with ICD
+- model with ICD
